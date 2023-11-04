@@ -1,6 +1,6 @@
 # Amazon-Clone
 
-A Clone of the Amazon Home page using technologies HTML and CSS The icon library is used in this clone is font-awesome
+A Clone of the Amazon Home page using technologies HTML and CSS, The icon library is used in this clone is font-awesome.
 
 
 # Technologies :
