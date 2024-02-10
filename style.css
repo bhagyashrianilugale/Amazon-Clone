@@ -176,10 +176,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    animation-name: changeherosimg;
-    animation-duration: 14s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation: changeherosimg 14s linear infinite;
 }
 
 @keyframes changeherosimg{
